@@ -1,0 +1,3 @@
+rootProject.name = 'apo_theta_omega_3601'
+
+include ':app'

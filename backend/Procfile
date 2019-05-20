@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT apo_theta_omega_3601.wsgi:application
